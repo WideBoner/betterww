@@ -43,7 +43,7 @@ You can apply the [Widescreen Patch](https://www.dropbox.com/s/5huyf6r3drynq1c/T
 
 You can apply the [Gender neutral](http://www.romhacking.net/hacks/2906/) or [Female](https://gamebanana.com/gamefiles/11342) pronoun patch to match your customization before using this  
 
-If using Dolphin you can use [Hypatia's HD Texture Pack](https://onthegreatsea.tumblr.com/DOWNLOADS)
+If using Dolphin you can use [Hypatia's HD Texture Pack](https://forums.dolphin-emu.org/Thread-hypatia-s-tloz-the-wind-waker-hd-pack-v2-0001a)
 
 **Gecko codes you may want to use (by Ralf and wiiztec)**  
 Included is an optional file with these Gecko codes that I like to use:  
